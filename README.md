@@ -1,2 +1,1 @@
-# efficientdet-lite-faces
-Train EfficientDet Lite model to detect faces on photo
+This notebook is created to train EfficientDet Lite model on WIDER dataset.
